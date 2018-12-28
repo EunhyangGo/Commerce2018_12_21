@@ -210,6 +210,9 @@ public class CommerceService {
 					
 		}
 	}
+	/*
+	 * 파일을 읽고 저장하기 위한 메서드 선언
+	 */
     public void writeCList(String inforFile) {
     	
     	PrintWriter pw; //파일을 저장하기 위해 PrintWiter 객체 선언
